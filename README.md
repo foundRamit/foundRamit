@@ -9,8 +9,8 @@ Aspiring backend developer with a strong foundation in Python and Node.js. Passi
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=foundRamit&show_icons=true&theme=dark)
-![](https://github-readme-streak-stats.herokuapp.com/?user=foundRamit&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=foundRamit&show_icons=true&theme=dark)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=foundRamit&theme=dark)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=foundRamit&layout=compact&theme=dark)
 
 ---
