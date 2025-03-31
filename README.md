@@ -3,7 +3,7 @@ Aspiring backend developer with a strong foundation in Python and Node.js. Passi
 
 
 ## 🌍 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/ramit-taparia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ramit-taparia/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/foundRamit)
 
 ---
